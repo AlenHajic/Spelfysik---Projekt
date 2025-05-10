@@ -1,2 +1,2 @@
-# Spelfysik---Projekt
+# Spelfysik - Projekt
 A simple submarine simulation
